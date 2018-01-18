@@ -1,0 +1,12 @@
+c:\users\m1039139\documents\visual studio 2017\Projects\SampleEditing\SampleEditing\bin\Debug\SampleEditing.exe.config
+c:\users\m1039139\documents\visual studio 2017\Projects\SampleEditing\SampleEditing\bin\Debug\SampleEditing.exe
+c:\users\m1039139\documents\visual studio 2017\Projects\SampleEditing\SampleEditing\bin\Debug\SampleEditing.pdb
+c:\users\m1039139\documents\visual studio 2017\Projects\SampleEditing\SampleEditing\obj\Debug\SampleEditing.csprojResolveAssemblyReference.cache
+c:\users\m1039139\documents\visual studio 2017\Projects\SampleEditing\SampleEditing\obj\Debug\SampleEditing.Form1.resources
+c:\users\m1039139\documents\visual studio 2017\Projects\SampleEditing\SampleEditing\obj\Debug\SampleEditing.Properties.Resources.resources
+c:\users\m1039139\documents\visual studio 2017\Projects\SampleEditing\SampleEditing\obj\Debug\SampleEditing.csproj.GenerateResource.Cache
+c:\users\m1039139\documents\visual studio 2017\Projects\SampleEditing\SampleEditing\obj\Debug\SampleEditing.csproj.CoreCompileInputs.cache
+c:\users\m1039139\documents\visual studio 2017\Projects\SampleEditing\SampleEditing\obj\Debug\SampleEditing.exe
+c:\users\m1039139\documents\visual studio 2017\Projects\SampleEditing\SampleEditing\obj\Debug\SampleEditing.pdb
+C:\Users\M1039139\Documents\Visual Studio 2017\Projects\SampleEditing\SampleEditing\bin\Debug\NReco.VideoConverter.dll
+C:\Users\M1039139\Documents\Visual Studio 2017\Projects\SampleEditing\SampleEditing\bin\Debug\NReco.VideoConverter.xml
